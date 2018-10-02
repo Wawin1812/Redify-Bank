@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5638307A-7387-41B8-A806-C6189177027D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="5" />
+      <File FileName="DAL.cs" Line="14" Column="6" />
+      <File FileName="IAccount.cs" Line="1" Column="1" />
+      <File FileName="IReadifyBank.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReadifyBank PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
